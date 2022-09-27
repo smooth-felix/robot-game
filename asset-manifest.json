@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/robot-game/static/css/main.2c506e2f.css",
-    "main.js": "/robot-game/static/js/main.e54793f4.js",
+    "main.js": "/robot-game/static/js/main.3d3ceb12.js",
     "index.html": "/robot-game/index.html",
     "main.2c506e2f.css.map": "/robot-game/static/css/main.2c506e2f.css.map",
-    "main.e54793f4.js.map": "/robot-game/static/js/main.e54793f4.js.map"
+    "main.3d3ceb12.js.map": "/robot-game/static/js/main.3d3ceb12.js.map"
   },
   "entrypoints": [
     "static/css/main.2c506e2f.css",
-    "static/js/main.e54793f4.js"
+    "static/js/main.3d3ceb12.js"
   ]
 }
