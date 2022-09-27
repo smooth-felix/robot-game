@@ -13,4 +13,6 @@ The Robot can move in the following direction,
 By Clicking on an empty cell the Robot will be teleported to that cell from the current cell.
 The time for teleportation is calculated by taking the shortest distance from the origin of teleportation to its distance and multiplying it by 250 ms.
 
+Project is live at: https://smooth-felix.github.io/robot-game/
+
 Happy coding!!!
